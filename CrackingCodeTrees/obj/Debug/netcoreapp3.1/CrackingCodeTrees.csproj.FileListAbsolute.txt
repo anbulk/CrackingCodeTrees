@@ -1,0 +1,13 @@
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.exe
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.deps.json
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.runtimeconfig.json
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.runtimeconfig.dev.json
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.dll
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\bin\Debug\netcoreapp3.1\CrackingCodeTrees.pdb
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.csprojAssemblyReference.cache
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.AssemblyInfoInputs.cache
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.AssemblyInfo.cs
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.csproj.CoreCompileInputs.cache
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.dll
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.pdb
+C:\1IM\Prep\CrackingCodeTrees\CrackingCodeTrees\obj\Debug\netcoreapp3.1\CrackingCodeTrees.genruntimeconfig.cache
