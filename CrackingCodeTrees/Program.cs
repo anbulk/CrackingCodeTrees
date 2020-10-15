@@ -115,7 +115,6 @@ namespace CrackingCodeTrees
             return node;
         }
 
-
         public static Node SearchBST(Node root,int key)
         {
             if (root == null)
@@ -236,17 +235,19 @@ namespace CrackingCodeTrees
             //InOrder(root);
 
 
-            Node tree = null;
+            CrackingCodeTrees.Tree.Node tree = new CrackingCodeTrees.Tree.Node(10);
 
             /* Constructing tree given in the above figure */
-            tree = CreateAVLTree(tree, 10);
-            tree = CreateAVLTree(tree, 20);
-            tree = CreateAVLTree(tree, 30);
-            tree = CreateAVLTree(tree, 40);
-            tree = CreateAVLTree(tree, 50);
-            tree = CreateAVLTree(tree, 25);
+            tree = tree.Insert(tree, 10);
+            tree = tree.Insert(tree, 20);
+            tree = tree.Insert(tree, 30);
+            tree = tree.Insert(tree, 40);
+            tree = tree.Insert(tree, 50);
+            tree = tree.Insert(tree, 25);
 
-            PreOrder(tree);
+            tree.PreOrder(tree);
+            //  Preorder traversal of the constructed AVL tree is
+            //30 20 10 25 40 50
 
         }
     }
